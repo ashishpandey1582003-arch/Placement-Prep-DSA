@@ -20,4 +20,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ashishpandey1582003-arch/Placement-Prep-DSA/tree/master/0016-3sum-closest) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ashishpandey1582003-arch/Placement-Prep-DSA/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ashishpandey1582003-arch/Placement-Prep-DSA/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ashishpandey1582003-arch/Placement-Prep-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
